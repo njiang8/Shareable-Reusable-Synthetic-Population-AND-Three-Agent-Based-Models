@@ -1,4 +1,5 @@
 # A-Shareable-and-Reusable-Synthetic-Population-Approach-for-Geographically-Explicit-Agent-Based-Model
+### Developers: Na Jiang(Richard), Annetta Burger, Bill Kennedy, Xiaoyi Yuan, Talha Oz, and Andrew Crooks
 There are four parts in this project: 1) Synthetic Population; 2) Traffic Dynamic Model; 3) Disaster Reponse Model; 4) Disease Dynamic Model.
 
 ## Part One
